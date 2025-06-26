@@ -1,4 +1,9 @@
-# Excel_Project_Data_Analytics
-My project demonstrating my Excel skills
+# My Excel Data Analytics Projects
 
-I edited this on github.com
+## Salary Dashboard
+![alt text](image.jpg)
+
+## Salary Analysis
+![alt text](image.jpg)
+
+
